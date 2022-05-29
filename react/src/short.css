@@ -1,0 +1,17 @@
+.container {
+    width: 500px;
+    margin: 50px auto;
+}
+input[type="text"] {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 257px;
+}
+label {
+    display: inline-block;
+    width: 20%;
+}
+ul {
+    list-style: none;
+}
